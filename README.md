@@ -1,5 +1,7 @@
 ## Olá, Bem vindo ao meu perfil.
 
+<p>Olá, me chamo Luiz, sou programador full-stack, fique a vontade para explorar meus repositorios e agradeço se deixar alguma estrela, caso tenha interesse, entre em contato comigo pelo me gmail que esta abaixo.</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Java" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -16,6 +18,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
  
 <div> 
   <a href="https://www.instagram.com/luiz_28_0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/luiz-antonio-6817b526a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/luiz-antonio-6817b526a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luiz.dantas2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
